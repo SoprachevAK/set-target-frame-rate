@@ -1,0 +1,21 @@
+{
+  "name": "com.soprachevak.set-target-frame-rate",
+  "version": "1.0.0",
+  "displayName": "Set target frame rate",
+  "description": "Set Application.targetFrameRate on awake",
+  "dependencies": {},
+  "keywords": [
+    "SET",
+    "targetFrameRate",
+    "FPS",
+    "target",
+    "frame",
+    "rate"
+  ],
+  "author": {
+    "name": "Soprachev Andrei",
+    "email": "soprachev@mail.ru",
+    "url": "https://soprachev.com"
+  },
+  "unity": "2019.4"
+}
